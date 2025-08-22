@@ -1,5 +1,7 @@
 # 🔐 Password Strength Checker
 
+[Documento em português](./README_pt.md)
+
 A simple **Python** script that checks the strength of a password and classifies it as **Weak**, **Medium**, or **Strong**.  
 Portfolio project to practice **information security concepts** and **regular expressions**.
 
